@@ -1,0 +1,8 @@
+1.mkdir <name>
+2.cd <name>
+3.touch 4.AmrAhmad
+4.git clone https://github.com/FatmaKhaled/pyton2Track/edit/main
+5.git add 4.AmrAhmad
+6.git commit -m 4.AmrAhmad
+7.git pull https://github.com/FatmaKhaled/pyton2Track/edit/main master
+8.git push https://github.com/FatmaKhaled/pyton2Track/edit/main main
