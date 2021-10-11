@@ -1,0 +1,17 @@
+name 
+ahmed mohamed alsayed alawday
+
+
+git clone https://github.com/FatmaKhaled/pyton2Track.git
+cd pyton2Track
+touch ahmed.txt
+git add .
+git config --global user.email "ahmed.m.awady@gmail.com"
+git config --global user.name "ahmed-elawady"
+git commit -m "add ahmed file"
+
+
+
+
+
+ 
