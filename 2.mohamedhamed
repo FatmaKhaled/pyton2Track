@@ -1,0 +1,9 @@
+git init
+git add file
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:mohamedhamednour/d.git
+git config --global user.emailmohamedhame2ed@gmail.com
+go setting ket name title and past words by cat /home/hamed/.ssh/id_rsa.pub
+
+git push -u origin main
